@@ -7,6 +7,10 @@
 ## [s01](s01/index.html)
 
 
+## [r01](r01/index.html)
+## [r02](r02/index.html)
+## [r03](r03/index.html)
+
 ## [r04](r04/index.html)
 ## [r05](r05/index.html)
 ## [r06](r06/index.html)
